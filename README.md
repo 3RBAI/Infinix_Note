@@ -44,7 +44,12 @@ fastboot flashing unlock
 # أو لبعض الأجهزة
 fastboot oem unlock
 ```
+```التواصل 
 
+#https://github.com/3RBAI
+#t.me/a3b6iii
+https://wa.me/+96895596569
+email: wolfonlyoman@gmail.com
 ملاحظات خاصة بجهاز Infinix:
 
 · قد تحتاج إلى الحصول على كود فك القفل من موقع Infinix الرسمي
