@@ -1,0 +1,5 @@
+     2868576  /ramdisk/init
+     1143504  /ramdisk/system/bin/snapuserd_ramdisk
+         980  /ramdisk/system/etc/ramdisk/build.prop
+         537  /ramdisk/system/etc/init/snapuserd.rc
+          17  /ramdisk/system/bin/snapuserd

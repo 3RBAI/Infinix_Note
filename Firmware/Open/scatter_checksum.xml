@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<scatter>
+	<version>1.0</version>
+	<images>
+		<file name="..\preloader_x6857_h782.bin" chk_method="ADD" checksum="0xe675439e"/>
+		<file name="..\preloader_x6857_h782.bin" chk_method="ADD" checksum="0xe675439e"/>
+		<file name="vbmeta.img" chk_method="ADD" checksum="0x86a7c67a"/>
+		<file name="..\vbmeta_system.img" chk_method="ADD" checksum="0xd7ff5a37"/>
+		<file name="..\vbmeta_vendor.img" chk_method="ADD" checksum="0x9d4165f2"/>
+		<file name="modem.img" chk_method="ADD" checksum="0x593953b4"/>
+		<file name="..\spmfw.img" chk_method="ADD" checksum="0x892b5bf9"/>
+		<file name="..\mcf_ota.img" chk_method="ADD" checksum="0xe181d1c6"/>
+		<file name="..\pi_img.img" chk_method="ADD" checksum="0xa551a730"/>
+		<file name="..\dpm.img" chk_method="ADD" checksum="0x1f2ee3a"/>
+		<file name="..\scp.img" chk_method="ADD" checksum="0x95e3517f"/>
+		<file name="..\ccu.img" chk_method="ADD" checksum="0x32cb26a5"/>
+		<file name="..\vcp.img" chk_method="ADD" checksum="0x3368ce61"/>
+		<file name="..\sspm.img" chk_method="ADD" checksum="0x6210929f"/>
+		<file name="..\mcupm.img" chk_method="ADD" checksum="0x650539f0"/>
+		<file name="..\gpueb.img" chk_method="ADD" checksum="0xeb887243"/>
+		<file name="..\apusys.img" chk_method="ADD" checksum="0x69c4ed53"/>
+		<file name="..\gz.img" chk_method="ADD" checksum="0xedd9a6ce"/>
+		<file name="..\lk.img" chk_method="ADD" checksum="0x513890ea"/>
+		<file name="..\boot.img" chk_method="ADD" checksum="0xecb5f231"/>
+		<file name="..\vendor_boot.img" chk_method="ADD" checksum="0x3f02ef71"/>
+		<file name="..\init_boot.img" chk_method="ADD" checksum="0x17bb49d6"/>
+		<file name="..\dtbo.img" chk_method="ADD" checksum="0xf894acce"/>
+		<file name="..\tee.img" chk_method="ADD" checksum="0xd70f3618"/>
+		<file name="..\connsys_bt.img" chk_method="ADD" checksum="0x4a254cdd"/>
+		<file name="..\connsys_wifi.img" chk_method="ADD" checksum="0xda7004d7"/>
+		<file name="..\connsys_gnss.img" chk_method="ADD" checksum="0x13a3d8a8"/>
+		<file name="logo.img" chk_method="ADD" checksum="0x64df7567"/>
+		<file name="..\efuse.img" chk_method="ADD" checksum="0x2d6fb3d7"/>
+		<file name="super.img" chk_method="ADD" checksum="0x8fd977d2"/>
+		<file name="tkv.img" chk_method="ADD" checksum="0xef4e6ca1"/>
+		<file name="tkv.img" chk_method="ADD" checksum="0xef4e6ca1"/>
+		<file name="..\tranfs.img" chk_method="ADD" checksum="0xb91d419e"/>
+		<file name="..\userdata.img" chk_method="ADD" checksum="0xd37a9862"/>
+	</images>
+</scatter>

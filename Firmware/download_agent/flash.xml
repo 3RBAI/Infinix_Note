@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash-mode>
+    <project>x6857_h782</project>
+    <dagent>DA_BR.bin</dagent>
+    <scatter>../MT6878_Android_scatter.xml</scatter>
+    <build_version>alps-mp-u0.mp1.rc-V10.69_reallytek.u0mp1rc.k6989v1.64_P12</build_version>
+    <build_time>2025-10-10 17:39:24</build_time>
+    <version>1.0</version>
+    <contact>Yuanli.Yin</contact>
+    <phone_tracking_en>Y</phone_tracking_en>
+    <security_version>3.0</security_version>
+    <key_version>V5</key_version>
+    <efuse_enable>yes</efuse_enable>
+    <tran_auth_version>V1</tran_auth_version>
+</flash-mode>
